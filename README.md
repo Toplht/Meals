@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # meals
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ yarn dev
 ```sh
 yarn build
 ```
+=======
+# Meals
+Vue3练习demo
+>>>>>>> 73c89f6cab31ce3b3f1ff90c5dac52d03a8c0d29
